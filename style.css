@@ -1,0 +1,4 @@
+.batony{
+    display: flex;
+    flex-direction: column;
+}
